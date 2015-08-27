@@ -1,1 +1,3 @@
-# InvertedPendulum
+# Inverted Pendulum
+##### Solving "Inverted Pendulum" problem with Q-learning ...
+
